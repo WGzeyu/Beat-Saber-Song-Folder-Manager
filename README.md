@@ -1,5 +1,5 @@
 
-# Beat Saber 自定义歌单路径编辑器  
+# Beat Saber 歌曲路径管理器
 能够更方便地更改由SongCore支持的自定义歌曲目录，**[点我进入软件下载页](https://github.com/wgzeyu/BSSongFolderEditor/releases/latest)**  
 * 游戏路径识别
 * 拖放添加
