@@ -18,7 +18,7 @@
 * 各种纠错与识别
 
 ### 关于本项目
-本项目将曲包文件夹作为单独歌单添加至游戏中是通过SongCore这个PC平台BeatSaber基础Mod来实现的。
+本项目将曲包文件夹作为单独歌单添加至游戏中是通过SongCore这个PC平台BeatSaber基础Mod来实现的。  
 本项目引用了以下模块：  
 * 精易模块 源码：[http://ec.125.la/](http://ec.125.la/)
 * zyJson 源码：[谷歌搜索](https://www.google.com/search?q=%E6%98%93%E8%AF%AD%E8%A8%80+zyjson) [百度搜索](https://www.baidu.com/s?wd=%E6%98%93%E8%AF%AD%E8%A8%80%20zyjson)
