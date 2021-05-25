@@ -1,6 +1,6 @@
 
 # Beat Saber 歌曲路径管理器
-能够更方便地编辑由SongCore支持的自定义歌曲路径，还可以导出为Playlist(.bplist)歌曲列表，以及导出收藏歌曲。
+能够将曲包文件夹作为单独歌单添加至游戏中(PC平台)，还可以导出为Playlist(.bplist)歌曲列表(全平台)，以及导出收藏歌曲(PC平台)。
 
 **下载地址：**[https://github.com/WGzeyu/Beat-Saber-Song-Folder-Manager/releases/latest](https://github.com/WGzeyu/Beat-Saber-Song-Folder-Manager/releases/latest)
 
@@ -18,6 +18,7 @@
 * 各种纠错与识别
 
 ### 关于本项目
+本项目将曲包文件夹作为单独歌单添加至游戏中是通过SongCore这个PC平台BeatSaber基础Mod来实现的。
 本项目引用了以下模块：  
 * 精易模块 源码：[http://ec.125.la/](http://ec.125.la/)
 * zyJson 源码：[谷歌搜索](https://www.google.com/search?q=%E6%98%93%E8%AF%AD%E8%A8%80+zyjson) [百度搜索](https://www.baidu.com/s?wd=%E6%98%93%E8%AF%AD%E8%A8%80%20zyjson)
