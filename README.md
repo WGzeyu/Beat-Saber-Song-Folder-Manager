@@ -1,6 +1,6 @@
 
 # Beat Saber Song Folder Manager
-能够将曲包文件夹作为单独歌单添加至游戏中（PC平台），还可以导出为Playlist(.bplist)歌曲列表（**全平台**），以及导出收藏歌曲（PC平台）。
+能够将曲包文件夹作为单独歌单添加至游戏中（PC平台），还可以导出为Playlist(.bplist)歌曲列表（**全平台**），以及导出收藏歌曲（**全平台**）、。
 
 **下载地址：**[https://github.com/WGzeyu/Beat-Saber-Song-Folder-Manager/releases/latest](https://github.com/WGzeyu/Beat-Saber-Song-Folder-Manager/releases/latest)
 
@@ -13,8 +13,9 @@
 * 编辑歌曲存放路径
 * 拖放添加
 * 生成歌单封面
-* 导出收藏歌曲
-* 导出为Playlist (.bplist)
+* 导出收藏歌曲文件
+* 导出收藏歌曲列表
+* 将曲包导出为Playlist (.bplist)
 * 正负一级路径纠错
 * 重复添加识别
 * 有效歌曲数量识别
